@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		41BA996C2588A9E300FE6B17 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 41BA996B2588A9E300FE6B17 /* AppDelegate.m */; };
 		41BA996F2588A9E300FE6B17 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 41BA996E2588A9E300FE6B17 /* ViewController.m */; };
-		41BA99712588A9E400FE6B17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 41BA99702588A9E400FE6B17 /* Assets.xcassets */; };
 		41BA99772588A9E400FE6B17 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 41BA99762588A9E400FE6B17 /* main.m */; };
 /* End PBXBuildFile section */
 
@@ -20,7 +19,6 @@
 		41BA996B2588A9E300FE6B17 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		41BA996D2588A9E300FE6B17 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		41BA996E2588A9E300FE6B17 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		41BA99702588A9E400FE6B17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		41BA99752588A9E400FE6B17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		41BA99762588A9E400FE6B17 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		41BA99782588A9E400FE6B17 /* objcwithoutstoryboard.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = objcwithoutstoryboard.entitlements; sourceTree = "<group>"; };
@@ -60,7 +58,6 @@
 				41BA996B2588A9E300FE6B17 /* AppDelegate.m */,
 				41BA996D2588A9E300FE6B17 /* ViewController.h */,
 				41BA996E2588A9E300FE6B17 /* ViewController.m */,
-				41BA99702588A9E400FE6B17 /* Assets.xcassets */,
 				41BA99752588A9E400FE6B17 /* Info.plist */,
 				41BA99762588A9E400FE6B17 /* main.m */,
 				41BA99782588A9E400FE6B17 /* objcwithoutstoryboard.entitlements */,
@@ -125,7 +122,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				41BA99712588A9E400FE6B17 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
